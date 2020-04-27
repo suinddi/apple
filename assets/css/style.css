@@ -36,5 +36,5 @@
 
 /* mediaquery */
 @media (max-width: 1020px){
-    .container {width: 100px;}
+    .container {width: 100%;}
 }
