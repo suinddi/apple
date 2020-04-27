@@ -1,5 +1,5 @@
 /* container */
-.container {width: 100px; margin: 0 auto;}
+.container {width: 1000px; margin: 0 auto;}
 
 /* row */
 .row {position: relative; margin: 0 20px;}
@@ -19,20 +19,21 @@
 }
 #header .header-id {
     position: absolute; right: 0; bottom: 5px;
-    width: 40px; 
-    height: 40px; 
-    background: linear-gradient(149.16deg, #A4A9B5 10.18%, rgba(164, 169, 181, 0) 81.31%), #C4C4C4;
+    width: 40px;
+    height: 40px;
     border-radius: 50%;
-    font-size: 18px; 
     font-weight: 300;
-    color: #fff; 
-    /* text-align: center;
+    font-size: 18px;
+    color: #fff;
+    /*text-align: center;
     line-height: 40px; */
-    display: flex; 
-    justify-content: center; 
+    display: flex;
     align-items: center;
+    justify-content: center;
     text-transform: uppercase;
+    background: linear-gradient(149.16deg, #A4A9B5 10.18%, rgba(164, 169, 181, 0) 81.31%), #C4C4C4;
 }
+
 
 /* mediaquery */
 @media (max-width: 1020px){
