@@ -47,10 +47,10 @@
 .recentM .recent:last-child {margin-right: 0;}
 .recentM h2 {font-size: 20px; font-weight: bold; margin-bottom: 12px; margin-top: 16px; border-top: 1px solid #EBEBEB; padding-top: 20px;}
 .recentM .recent-title .rt-stit { font-size: 15px; line-height: 1.9;}
-.recentM .recent-title .rt-tit {font-size: 15px; color: #908F94;}
+.recentM .recent-title .rt-tit {font-size: 15px; color: #908F94; font-weight: 300;}
 
 /* nextM */
-.nextM {}
+.nextM {padding-bottom: 120px;}
 .nextM h2 {font-size: 20px; font-weight: bold; margin-bottom: 12px; margin-top: 16px; border-top: 1px solid #EBEBEB; padding-top: 20px;}
 .nextM .next {display: flex; margin-bottom: 16px; position: relative;} 
 .nextM .next:after {
